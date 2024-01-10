@@ -173,4 +173,4 @@ sudo yum install mysql
 sudo mysql -u admin -p -h <DB-Server-Private-IP-address>
 ```
 
-Done 
+
